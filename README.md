@@ -4,7 +4,7 @@
 
 **Technology Used :**
 
-**HTML , CSS , Javscript is used in this project.**
+**HTML , CSS , Javscript is used in this News-Express Project.**
 =======
 
 
